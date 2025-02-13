@@ -72,9 +72,9 @@ def displayRT(rainbowTable):
     
 def main():
     pw = 'aa@12!'
-    pwHash = hashlib.md5(pw.encode)
+    pwHash = hashlib.md5(pw.encode())
     #create a variable target to store the md5 hash of pw
-    target = pwHash.hexdigest #should update this target hash value
+    target = pwHash.hexdigest() #should update this target hash value
     
     #Modify the below code to test brute_force_password and document the time to discover the password
     charset = 'ab12!@'
@@ -84,7 +84,12 @@ def main():
     rt = defineRT(charset, 4, 6)
     
     #Write more code to check how many seconds used to discover the password given the target hash using the rainbow table 
-
+    start = time.time()
+    times = 100000
+    for _ in range(times):
+        brute_force_password
+    end = time.time()
+    print(f"It took {start-end} seconds and {times} tries to find the password")
     #Call displayRT to test the function definition
       
 
