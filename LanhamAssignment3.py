@@ -29,11 +29,15 @@ def brute_force_password(target_hash, charset, max_length):
         # Generate all combinations of the given length
         for combination in itertools.product(charset, repeat=length):
             # Join the combination to form a password
-            pass
+            potentialPassword = combination
             # Generate the hash of the candidate password
-            pass
+            potentialHash = hashlib.md5(str(potentialPassword).encode())
             # Check if the hash matches the target hash
-            pass 
+            if potentialHash == target_hash:
+                print(f"The password is {potentialPassword.hexdigest()}") 
+                break
+            else:
+                print("Trying new password")
 
 
     return None  # Password not found within the given constraints
@@ -68,9 +72,9 @@ def displayRT(rainbowTable):
     
 def main():
     pw = 'aa@12!'
-    
+    pwHash = hashlib.md5(pw.encode)
     #create a variable target to store the md5 hash of pw
-    target = 'dummy' #should update this target hash value
+    target = pwHash.hexdigest #should update this target hash value
     
     #Modify the below code to test brute_force_password and document the time to discover the password
     charset = 'ab12!@'
