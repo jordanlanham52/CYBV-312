@@ -30,17 +30,6 @@ def brute_force_password(target_hash, charset, max_length):
     return None  # Password not found within the given constraints
 
 def defineRT(charset, min_lenth, max_length):
-    """
-    Creates a rainbow table with generated passwords and md5 hash values.
-    Each password uses only a limited string of characters in limited length.  
-    Parameters:
-    - charset (str): The set of characters to use for generating password combinations.
-    - max_length (int): The maximum length of passwords.
-    - min_length (int): The minimum length of passwords.
-
-    Returns:
-    - dict: The dictionary composed of pairs <md5 hash digest, password>
-    """    
     rainbowTable = {}      
     for length in range(min_lenth, max_length):
         for combination in itertools.product(charset, repeat=length):
