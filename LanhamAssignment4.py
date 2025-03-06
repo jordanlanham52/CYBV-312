@@ -30,7 +30,17 @@ def hash_filecontent(filePath):
 
     result =None
     print("\nAttempting to hash file:", filePath)
-    pass
+
+    try:
+        with open(filePath, 'rb') as file:  # Open file in binary mode
+            file_data = file.read()
+            result = hashlib.sha256(file_data).hexdigest()  # Compute hash
+    except FileNotFoundError:
+        print("Error: File not found.")
+    except Exception as e:
+        print(f"Error: {e}")
+    
+    return result
 
 def get_filemetadata(filePath):
     '''
@@ -46,23 +56,35 @@ def get_filemetadata(filePath):
     None: otherwise
     '''
     try:
-        absPath  = os.path.abspath(filePath)
-        fileSize = os.path.getsize(absPath)
-        pass
+        absPath  = os.path.abspath(filePath)  # Get absolute file path
+        fileSize = os.path.getsize(absPath)  # Get file size
+        hashValue = hash_filecontent(absPath)  # Compute hash
+        
+        # Get MAC times (Modification, Access, Creation)
+        mTime = os.path.getmtime(absPath)  # Last modification time
+        aTime = os.path.getatime(absPath)  # Last access time
+        cTime = os.path.getctime(absPath)  # File creation time (on Windows) or last status change (on Unix)
+
+        return (absPath, fileSize, hashValue, mTime, aTime, cTime)
+    
     except Exception as err:
-        pass
+        print(f"Error: {err}")
+        return None
+
 
 # main function
 def main():
-    print(Path.cwd())
+    print("Current working directory: ",Path.cwd())
     targetFolder = input("Enter Target Folder: ")
-    
+    if not os.path.exists(targetFolder):
+        print("Error: The specified folder does not exist.")
+        return
     # Start walking the folder
     
     print("Walking: ", targetFolder, "\n")
     
     #You will need to add more columns to the PrettyTable
-    tbl = PrettyTable(['FilePath','FileSize'])  
+    tbl = PrettyTable(['File Path', 'File Size (Bytes)', 'SHA-256 Hash', 'Modified Time', 'Accessed Time', 'Created Time'])
     
     for currentRoot, dirList, fileList in os.walk(targetFolder):
     
@@ -73,7 +95,11 @@ def main():
             #as well as creating a SHA-256 Hash value for each file.
             #Hint: call the function get_filemetadata   try:
             fullPath = os.path.join(currentRoot, nextFile)
-            pass
+            metadata = get_filemetadata(fullPath)
+            if metadata:
+                absPath, fileSize, hashValue, mTime, aTime, cTime = metadata
+                tbl.add_row([absPath, fileSize, hashValue, mTime, aTime, cTime])
+
     
             #You will need to add the variables that you stored the MAC and HASH
             #Code to add data to the pretty table
@@ -81,22 +107,24 @@ def main():
     tbl.align = "l" # align the columns left justified
     
     # display the table
-    print (tbl.get_string(sortby="FileSize", reversesort=True))
+    print("\n--- Sorted by File Size (Descending) ---")
+    print(tbl.get_string(sortby="File Size (Bytes)", reversesort=True))
     
     # Display the table sorted by Last Modified Date (Oldest to Newest) and AbsPath
-    
+    print("\n--- Sorted by Last Modified Date (Oldest to Newest) ---")
+    print(tbl.get_string(sortby="Modified Time"))
     
     #The following code will create a CSV file with the saved information
     #We will talk more about this in the next couple of weeks.
     ''' Create CSV File Name based on date and time '''
     now = time.time()
     timeString = time.strftime("%Y-%m-%d-%H-%M-%S", time.localtime(now))
-    csvFileName = "A4LastName"+timeString+".csv"
-    print(csvFileName)
+    csvFileName = "A4Lanham"+timeString+".csv"
+    print("\nSaving table to CSV:", csvFileName)
     
     ''' Open the CSV File and write the contents'''
     with open(csvFileName, 'w') as outFile:
-        csvOut = tbl.get_csv_string(sortby="FilePath")
+        csvOut = tbl.get_csv_string(sortby="File Path")
         outFile.write(csvOut)
     
     print("\nScript-End\n")
