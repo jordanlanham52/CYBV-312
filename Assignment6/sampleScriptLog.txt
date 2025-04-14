@@ -1,0 +1,372 @@
+3263-INFO-2025-03-10 10:44:41,051 Script Start
+
+3263-INFO-2025-03-10 10:45:10,819 Investigator:  Li Xu
+3263-INFO-2025-03-10 10:45:10,819 Organization:  The University of Arizona
+3263-INFO-2025-03-10 10:45:10,819 Purpose:  Scan a file directory and collect file information
+3263-INFO-2025-03-10 10:45:10,819 User Specified Directory:  TESTDIR
+3263-INFO-2025-03-10 10:45:10,819 ========================================
+
+3263-INFO-2025-03-10 10:45:10,828 platform:  Darwin
+3263-INFO-2025-03-10 10:45:10,828 platform-release:  22.6.0
+3263-INFO-2025-03-10 10:45:10,828 platform-version:  Darwin Kernel Version 22.6.0: Thu Dec  5 23:45:11 PST 2024; root:xnu-8796.141.3.709.7~4/RELEASE_X86_64
+3263-INFO-2025-03-10 10:45:10,828 architecture:  x86_64
+3263-INFO-2025-03-10 10:45:10,828 hostname:  uas-iMac-3.local
+3263-INFO-2025-03-10 10:45:10,828 processor:  i386
+3263-INFO-2025-03-10 10:45:10,828 ram:  32 GB
+3263-INFO-2025-03-10 10:45:10,828 ========================================
+
+3263-INFO-2025-03-10 10:45:10,833 File Processed:
+3263-INFO-2025-03-10 10:45:10,833 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Deutchland copy.JPG
+3263-INFO-2025-03-10 10:45:10,833 File Size:  600630
+3263-INFO-2025-03-10 10:45:10,833 Last-Modified:  2013-09-19 22:04:44
+3263-INFO-2025-03-10 10:45:10,833 Last-Accessed:  2025-03-10 09:20:28
+3263-INFO-2025-03-10 10:45:10,833 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,833 SHA-256:  08447ed9d5639d36963ce554ee2ae61e63734d3eb445353cd83657512abe8643
+3263-INFO-2025-03-10 10:45:10,833 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,834 File Processed:
+3263-INFO-2025-03-10 10:45:10,834 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Turtle.jpg
+3263-INFO-2025-03-10 10:45:10,834 File Size:  91329
+3263-INFO-2025-03-10 10:45:10,834 Last-Modified:  2013-09-19 21:39:58
+3263-INFO-2025-03-10 10:45:10,835 Last-Accessed:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,835 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,835 SHA-256:  10633b702e6ebc69d5bc383d376ed1e990b1dcbbabaa0b2550da9dadd129e485
+3263-INFO-2025-03-10 10:45:10,835 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,837 File Processed:
+3263-INFO-2025-03-10 10:45:10,837 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Munich.JPG
+3263-INFO-2025-03-10 10:45:10,837 File Size:  252607
+3263-INFO-2025-03-10 10:45:10,837 Last-Modified:  2013-09-19 21:58:44
+3263-INFO-2025-03-10 10:45:10,837 Last-Accessed:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,837 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,837 SHA-256:  41a5d87f5acdeacefbf3f53eb45be0003ef65db7312d5dcd1dd54276d87a772d
+3263-INFO-2025-03-10 10:45:10,837 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,844 File Processed:
+3263-INFO-2025-03-10 10:45:10,844 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/CoastLine.JPG
+3263-INFO-2025-03-10 10:45:10,844 File Size:  1997636
+3263-INFO-2025-03-10 10:45:10,844 Last-Modified:  2019-02-14 10:02:06
+3263-INFO-2025-03-10 10:45:10,844 Last-Accessed:  2025-03-10 09:20:28
+3263-INFO-2025-03-10 10:45:10,844 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,844 SHA-256:  818d1ce0bcb3373aacd34f03165693e9964717851f795aef4b40f08bfdcfe7d3
+3263-INFO-2025-03-10 10:45:10,844 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,849 File Processed:
+3263-INFO-2025-03-10 10:45:10,849 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Castle.JPG
+3263-INFO-2025-03-10 10:45:10,849 File Size:  1224201
+3263-INFO-2025-03-10 10:45:10,849 Last-Modified:  2013-09-19 21:08:28
+3263-INFO-2025-03-10 10:45:10,849 Last-Accessed:  2025-03-10 09:20:28
+3263-INFO-2025-03-10 10:45:10,849 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,850 SHA-256:  b6cd6031f40c9164de8b77686318ca702a9dc6c1853beb2fbbe2efc534097278
+3263-INFO-2025-03-10 10:45:10,850 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,851 File Processed:
+3263-INFO-2025-03-10 10:45:10,851 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/.DS_Store
+3263-INFO-2025-03-10 10:45:10,851 File Size:  6148
+3263-INFO-2025-03-10 10:45:10,851 Last-Modified:  2025-01-06 13:44:26
+3263-INFO-2025-03-10 10:45:10,851 Last-Accessed:  2025-01-06 13:44:26
+3263-INFO-2025-03-10 10:45:10,851 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,851 SHA-256:  e2007b238085c3073eb39ae952046b04cd8bc7a1bbb69be3871e3b09bc97f138
+3263-INFO-2025-03-10 10:45:10,851 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,852 File Processed:
+3263-INFO-2025-03-10 10:45:10,852 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Farm copy.jpg
+3263-INFO-2025-03-10 10:45:10,852 File Size:  96831
+3263-INFO-2025-03-10 10:45:10,853 Last-Modified:  2013-09-19 21:01:38
+3263-INFO-2025-03-10 10:45:10,853 Last-Accessed:  2025-03-10 09:20:28
+3263-INFO-2025-03-10 10:45:10,853 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,853 SHA-256:  176fbdfc84f38ac39ffe369357194b0cb4351d4ee15dd429887007b4be8d8c05
+3263-INFO-2025-03-10 10:45:10,853 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,854 File Processed:
+3263-INFO-2025-03-10 10:45:10,854 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Farm.jpg
+3263-INFO-2025-03-10 10:45:10,854 File Size:  96831
+3263-INFO-2025-03-10 10:45:10,854 Last-Modified:  2013-09-19 21:01:38
+3263-INFO-2025-03-10 10:45:10,854 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,854 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,854 SHA-256:  176fbdfc84f38ac39ffe369357194b0cb4351d4ee15dd429887007b4be8d8c05
+3263-INFO-2025-03-10 10:45:10,854 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,858 File Processed:
+3263-INFO-2025-03-10 10:45:10,859 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Castle copy.JPG
+3263-INFO-2025-03-10 10:45:10,859 File Size:  1224201
+3263-INFO-2025-03-10 10:45:10,859 Last-Modified:  2013-09-19 21:08:28
+3263-INFO-2025-03-10 10:45:10,859 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,859 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,859 SHA-256:  b6cd6031f40c9164de8b77686318ca702a9dc6c1853beb2fbbe2efc534097278
+3263-INFO-2025-03-10 10:45:10,859 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,861 File Processed:
+3263-INFO-2025-03-10 10:45:10,861 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Disney copy.jpg
+3263-INFO-2025-03-10 10:45:10,861 File Size:  304930
+3263-INFO-2025-03-10 10:45:10,861 Last-Modified:  2013-09-19 21:26:30
+3263-INFO-2025-03-10 10:45:10,861 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,861 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,861 SHA-256:  d27f8cc8192f3f9f1361b7fc8739e6d4361d123650d717264a7242d8984d881f
+3263-INFO-2025-03-10 10:45:10,861 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,863 File Processed:
+3263-INFO-2025-03-10 10:45:10,864 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Disney.jpg
+3263-INFO-2025-03-10 10:45:10,864 File Size:  304930
+3263-INFO-2025-03-10 10:45:10,864 Last-Modified:  2013-09-19 21:26:30
+3263-INFO-2025-03-10 10:45:10,864 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,864 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,864 SHA-256:  d27f8cc8192f3f9f1361b7fc8739e6d4361d123650d717264a7242d8984d881f
+3263-INFO-2025-03-10 10:45:10,864 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,865 File Processed:
+3263-INFO-2025-03-10 10:45:10,865 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Turtle copy.jpg
+3263-INFO-2025-03-10 10:45:10,865 File Size:  91329
+3263-INFO-2025-03-10 10:45:10,865 Last-Modified:  2013-09-19 21:39:58
+3263-INFO-2025-03-10 10:45:10,866 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,866 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,866 SHA-256:  10633b702e6ebc69d5bc383d376ed1e990b1dcbbabaa0b2550da9dadd129e485
+3263-INFO-2025-03-10 10:45:10,866 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,871 File Processed:
+3263-INFO-2025-03-10 10:45:10,872 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/CoastLine copy.JPG
+3263-INFO-2025-03-10 10:45:10,872 File Size:  1997636
+3263-INFO-2025-03-10 10:45:10,872 Last-Modified:  2019-02-14 10:02:06
+3263-INFO-2025-03-10 10:45:10,872 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,872 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,872 SHA-256:  818d1ce0bcb3373aacd34f03165693e9964717851f795aef4b40f08bfdcfe7d3
+3263-INFO-2025-03-10 10:45:10,872 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,874 File Processed:
+3263-INFO-2025-03-10 10:45:10,874 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Cat.jpg
+3263-INFO-2025-03-10 10:45:10,874 File Size:  446759
+3263-INFO-2025-03-10 10:45:10,874 Last-Modified:  2013-09-19 21:22:52
+3263-INFO-2025-03-10 10:45:10,874 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,874 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,874 SHA-256:  52d5722249b00842f2e96cc68808048f0341a6f9b5e65eb11585ef7b6967de1c
+3263-INFO-2025-03-10 10:45:10,875 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,877 File Processed:
+3263-INFO-2025-03-10 10:45:10,877 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Cat copy.jpg
+3263-INFO-2025-03-10 10:45:10,877 File Size:  446759
+3263-INFO-2025-03-10 10:45:10,877 Last-Modified:  2013-09-19 21:22:52
+3263-INFO-2025-03-10 10:45:10,877 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,877 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,877 SHA-256:  52d5722249b00842f2e96cc68808048f0341a6f9b5e65eb11585ef7b6967de1c
+3263-INFO-2025-03-10 10:45:10,877 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,879 File Processed:
+3263-INFO-2025-03-10 10:45:10,879 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Munich copy.JPG
+3263-INFO-2025-03-10 10:45:10,879 File Size:  252607
+3263-INFO-2025-03-10 10:45:10,879 Last-Modified:  2013-09-19 21:58:44
+3263-INFO-2025-03-10 10:45:10,879 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,879 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,879 SHA-256:  41a5d87f5acdeacefbf3f53eb45be0003ef65db7312d5dcd1dd54276d87a772d
+3263-INFO-2025-03-10 10:45:10,879 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,882 File Processed:
+3263-INFO-2025-03-10 10:45:10,882 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/Deutchland.JPG
+3263-INFO-2025-03-10 10:45:10,882 File Size:  600630
+3263-INFO-2025-03-10 10:45:10,882 Last-Modified:  2013-09-19 22:04:44
+3263-INFO-2025-03-10 10:45:10,882 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,882 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,882 SHA-256:  08447ed9d5639d36963ce554ee2ae61e63734d3eb445353cd83657512abe8643
+3263-INFO-2025-03-10 10:45:10,882 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,884 File Processed:
+3263-INFO-2025-03-10 10:45:10,884 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more2 copy/Farm.jpg
+3263-INFO-2025-03-10 10:45:10,884 File Size:  96831
+3263-INFO-2025-03-10 10:45:10,884 Last-Modified:  2013-09-19 21:01:38
+3263-INFO-2025-03-10 10:45:10,884 Last-Accessed:  2025-03-10 09:20:28
+3263-INFO-2025-03-10 10:45:10,884 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,884 SHA-256:  176fbdfc84f38ac39ffe369357194b0cb4351d4ee15dd429887007b4be8d8c05
+3263-INFO-2025-03-10 10:45:10,884 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,886 File Processed:
+3263-INFO-2025-03-10 10:45:10,886 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more2 copy/Disney.jpg
+3263-INFO-2025-03-10 10:45:10,886 File Size:  304930
+3263-INFO-2025-03-10 10:45:10,886 Last-Modified:  2013-09-19 21:26:30
+3263-INFO-2025-03-10 10:45:10,886 Last-Accessed:  2025-03-10 09:20:28
+3263-INFO-2025-03-10 10:45:10,886 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,886 SHA-256:  d27f8cc8192f3f9f1361b7fc8739e6d4361d123650d717264a7242d8984d881f
+3263-INFO-2025-03-10 10:45:10,887 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,889 File Processed:
+3263-INFO-2025-03-10 10:45:10,889 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more2 copy/Deutchland.JPG
+3263-INFO-2025-03-10 10:45:10,889 File Size:  600630
+3263-INFO-2025-03-10 10:45:10,889 Last-Modified:  2013-09-19 22:04:44
+3263-INFO-2025-03-10 10:45:10,889 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,890 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,890 SHA-256:  08447ed9d5639d36963ce554ee2ae61e63734d3eb445353cd83657512abe8643
+3263-INFO-2025-03-10 10:45:10,890 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,897 File Processed:
+3263-INFO-2025-03-10 10:45:10,897 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more/CoastLine.JPG
+3263-INFO-2025-03-10 10:45:10,897 File Size:  1997636
+3263-INFO-2025-03-10 10:45:10,897 Last-Modified:  2019-02-14 10:02:06
+3263-INFO-2025-03-10 10:45:10,897 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,897 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,897 SHA-256:  818d1ce0bcb3373aacd34f03165693e9964717851f795aef4b40f08bfdcfe7d3
+3263-INFO-2025-03-10 10:45:10,897 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,901 File Processed:
+3263-INFO-2025-03-10 10:45:10,901 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more/Castle.JPG
+3263-INFO-2025-03-10 10:45:10,901 File Size:  1224201
+3263-INFO-2025-03-10 10:45:10,901 Last-Modified:  2013-09-19 21:08:28
+3263-INFO-2025-03-10 10:45:10,901 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,901 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,901 SHA-256:  b6cd6031f40c9164de8b77686318ca702a9dc6c1853beb2fbbe2efc534097278
+3263-INFO-2025-03-10 10:45:10,901 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,904 File Processed:
+3263-INFO-2025-03-10 10:45:10,904 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more/Cat.jpg
+3263-INFO-2025-03-10 10:45:10,904 File Size:  446759
+3263-INFO-2025-03-10 10:45:10,904 Last-Modified:  2013-09-19 21:22:52
+3263-INFO-2025-03-10 10:45:10,904 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,904 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,904 SHA-256:  52d5722249b00842f2e96cc68808048f0341a6f9b5e65eb11585ef7b6967de1c
+3263-INFO-2025-03-10 10:45:10,904 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,906 File Processed:
+3263-INFO-2025-03-10 10:45:10,906 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more/Deutchland.JPG
+3263-INFO-2025-03-10 10:45:10,907 File Size:  600630
+3263-INFO-2025-03-10 10:45:10,907 Last-Modified:  2013-09-19 22:04:44
+3263-INFO-2025-03-10 10:45:10,907 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,907 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,907 SHA-256:  08447ed9d5639d36963ce554ee2ae61e63734d3eb445353cd83657512abe8643
+3263-INFO-2025-03-10 10:45:10,907 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,909 File Processed:
+3263-INFO-2025-03-10 10:45:10,909 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more/Biking.jpg
+3263-INFO-2025-03-10 10:45:10,909 File Size:  624744
+3263-INFO-2025-03-10 10:45:10,909 Last-Modified:  2016-07-05 21:50:56
+3263-INFO-2025-03-10 10:45:10,909 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,910 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,910 SHA-256:  05755324b6476d2b31f2d88f1210782c3fdce880e4b6bfa9a5edb23d8be5bedb
+3263-INFO-2025-03-10 10:45:10,910 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,917 File Processed:
+3263-INFO-2025-03-10 10:45:10,917 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more/moreyet/CoastLine.JPG
+3263-INFO-2025-03-10 10:45:10,917 File Size:  1997636
+3263-INFO-2025-03-10 10:45:10,917 Last-Modified:  2019-02-14 10:02:06
+3263-INFO-2025-03-10 10:45:10,917 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,917 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,917 SHA-256:  818d1ce0bcb3373aacd34f03165693e9964717851f795aef4b40f08bfdcfe7d3
+3263-INFO-2025-03-10 10:45:10,917 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,919 File Processed:
+3263-INFO-2025-03-10 10:45:10,919 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more/moreyet/Cat.jpg
+3263-INFO-2025-03-10 10:45:10,919 File Size:  446759
+3263-INFO-2025-03-10 10:45:10,919 Last-Modified:  2013-09-19 21:22:52
+3263-INFO-2025-03-10 10:45:10,919 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,919 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,919 SHA-256:  52d5722249b00842f2e96cc68808048f0341a6f9b5e65eb11585ef7b6967de1c
+3263-INFO-2025-03-10 10:45:10,919 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,922 File Processed:
+3263-INFO-2025-03-10 10:45:10,922 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more/moreyet/Deutchland.JPG
+3263-INFO-2025-03-10 10:45:10,922 File Size:  600630
+3263-INFO-2025-03-10 10:45:10,922 Last-Modified:  2013-09-19 22:04:44
+3263-INFO-2025-03-10 10:45:10,922 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,922 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,922 SHA-256:  08447ed9d5639d36963ce554ee2ae61e63734d3eb445353cd83657512abe8643
+3263-INFO-2025-03-10 10:45:10,922 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,924 File Processed:
+3263-INFO-2025-03-10 10:45:10,924 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more2/Farm.jpg
+3263-INFO-2025-03-10 10:45:10,924 File Size:  96831
+3263-INFO-2025-03-10 10:45:10,924 Last-Modified:  2013-09-19 21:01:38
+3263-INFO-2025-03-10 10:45:10,924 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,924 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,924 SHA-256:  176fbdfc84f38ac39ffe369357194b0cb4351d4ee15dd429887007b4be8d8c05
+3263-INFO-2025-03-10 10:45:10,924 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,926 File Processed:
+3263-INFO-2025-03-10 10:45:10,926 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more2/Disney.jpg
+3263-INFO-2025-03-10 10:45:10,926 File Size:  304930
+3263-INFO-2025-03-10 10:45:10,926 Last-Modified:  2013-09-19 21:26:30
+3263-INFO-2025-03-10 10:45:10,926 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,926 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,926 SHA-256:  d27f8cc8192f3f9f1361b7fc8739e6d4361d123650d717264a7242d8984d881f
+3263-INFO-2025-03-10 10:45:10,926 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,929 File Processed:
+3263-INFO-2025-03-10 10:45:10,929 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more2/Deutchland.JPG
+3263-INFO-2025-03-10 10:45:10,929 File Size:  600630
+3263-INFO-2025-03-10 10:45:10,929 Last-Modified:  2013-09-19 22:04:44
+3263-INFO-2025-03-10 10:45:10,929 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,930 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,930 SHA-256:  08447ed9d5639d36963ce554ee2ae61e63734d3eb445353cd83657512abe8643
+3263-INFO-2025-03-10 10:45:10,930 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,936 File Processed:
+3263-INFO-2025-03-10 10:45:10,936 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more copy/CoastLine.JPG
+3263-INFO-2025-03-10 10:45:10,936 File Size:  1997636
+3263-INFO-2025-03-10 10:45:10,936 Last-Modified:  2019-02-14 10:02:06
+3263-INFO-2025-03-10 10:45:10,936 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,936 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,937 SHA-256:  818d1ce0bcb3373aacd34f03165693e9964717851f795aef4b40f08bfdcfe7d3
+3263-INFO-2025-03-10 10:45:10,937 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,940 File Processed:
+3263-INFO-2025-03-10 10:45:10,941 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more copy/Castle.JPG
+3263-INFO-2025-03-10 10:45:10,941 File Size:  1224201
+3263-INFO-2025-03-10 10:45:10,941 Last-Modified:  2013-09-19 21:08:28
+3263-INFO-2025-03-10 10:45:10,941 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,941 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,941 SHA-256:  b6cd6031f40c9164de8b77686318ca702a9dc6c1853beb2fbbe2efc534097278
+3263-INFO-2025-03-10 10:45:10,941 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,943 File Processed:
+3263-INFO-2025-03-10 10:45:10,943 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more copy/Cat.jpg
+3263-INFO-2025-03-10 10:45:10,943 File Size:  446759
+3263-INFO-2025-03-10 10:45:10,943 Last-Modified:  2013-09-19 21:22:52
+3263-INFO-2025-03-10 10:45:10,943 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,943 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,943 SHA-256:  52d5722249b00842f2e96cc68808048f0341a6f9b5e65eb11585ef7b6967de1c
+3263-INFO-2025-03-10 10:45:10,943 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,946 File Processed:
+3263-INFO-2025-03-10 10:45:10,946 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more copy/Deutchland.JPG
+3263-INFO-2025-03-10 10:45:10,946 File Size:  600630
+3263-INFO-2025-03-10 10:45:10,946 Last-Modified:  2013-09-19 22:04:44
+3263-INFO-2025-03-10 10:45:10,946 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,946 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,946 SHA-256:  08447ed9d5639d36963ce554ee2ae61e63734d3eb445353cd83657512abe8643
+3263-INFO-2025-03-10 10:45:10,946 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,949 File Processed:
+3263-INFO-2025-03-10 10:45:10,949 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more copy/Biking.jpg
+3263-INFO-2025-03-10 10:45:10,949 File Size:  624744
+3263-INFO-2025-03-10 10:45:10,949 Last-Modified:  2016-07-05 21:50:56
+3263-INFO-2025-03-10 10:45:10,949 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,949 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,949 SHA-256:  05755324b6476d2b31f2d88f1210782c3fdce880e4b6bfa9a5edb23d8be5bedb
+3263-INFO-2025-03-10 10:45:10,949 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,956 File Processed:
+3263-INFO-2025-03-10 10:45:10,956 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more copy/moreyet/CoastLine.JPG
+3263-INFO-2025-03-10 10:45:10,956 File Size:  1997636
+3263-INFO-2025-03-10 10:45:10,956 Last-Modified:  2019-02-14 10:02:06
+3263-INFO-2025-03-10 10:45:10,956 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,956 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,956 SHA-256:  818d1ce0bcb3373aacd34f03165693e9964717851f795aef4b40f08bfdcfe7d3
+3263-INFO-2025-03-10 10:45:10,956 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,959 File Processed:
+3263-INFO-2025-03-10 10:45:10,959 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more copy/moreyet/Cat.jpg
+3263-INFO-2025-03-10 10:45:10,959 File Size:  446759
+3263-INFO-2025-03-10 10:45:10,959 Last-Modified:  2013-09-19 21:22:52
+3263-INFO-2025-03-10 10:45:10,959 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,959 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,959 SHA-256:  52d5722249b00842f2e96cc68808048f0341a6f9b5e65eb11585ef7b6967de1c
+3263-INFO-2025-03-10 10:45:10,959 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,961 File Processed:
+3263-INFO-2025-03-10 10:45:10,961 Path:  /Users/lixu/Documents/GitHub/CYBV312/CYBV312Works/assignments/assignment6/TESTDIR/more copy/moreyet/Deutchland.JPG
+3263-INFO-2025-03-10 10:45:10,962 File Size:  600630
+3263-INFO-2025-03-10 10:45:10,962 Last-Modified:  2013-09-19 22:04:44
+3263-INFO-2025-03-10 10:45:10,962 Last-Accessed:  2025-03-10 09:20:29
+3263-INFO-2025-03-10 10:45:10,962 Created:  2025-03-10 09:20:27
+3263-INFO-2025-03-10 10:45:10,962 SHA-256:  08447ed9d5639d36963ce554ee2ae61e63734d3eb445353cd83657512abe8643
+3263-INFO-2025-03-10 10:45:10,962 ======================================================================
+
+3263-INFO-2025-03-10 10:45:10,985 ========================================
+3263-INFO-2025-03-10 10:45:10,986 Files processed:  39
+3263-INFO-2025-03-10 10:45:10,986 Elapsed Time  	0:00:00.157410
+3263-INFO-2025-03-10 10:45:10,986 Status:  Script Ended
